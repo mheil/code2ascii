@@ -18,3 +18,7 @@ Command line utility that converts a string to a list of ascii-codes (in decimal
 
 #### Example
 ``` ascii2code "Go Lang"``` results in ```71,111,32,76,97,110,103```
+
+Building
+========
+To compile / install execute ```go build ./cmd/*``` or ```go install ./cmd/*```
